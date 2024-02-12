@@ -1,7 +1,7 @@
 <?php
     require 'vendor/autoload.php';
 
-    $email="namo3buddhay@gmail.com";
+    $email="receiver@gmail.com";
 
     $mail = new PHPMailer\PHPMailer\PHPMailer();
 
